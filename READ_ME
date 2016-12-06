@@ -1,0 +1,3 @@
+CPU RUN COMMAND - python trainingandTesting.py
+
+GPU RUN COMMAND - THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python trainingandTesting.py
